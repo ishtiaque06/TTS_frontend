@@ -1,2 +1,3 @@
-# file_io_and_text_normalization
-This project takes in a file of words matched with the sounds associated with the words and performs text normalization on a given text based on the input file. 
+# TTS_frontend
+This project takes in a sample conversation between customers and workers in the Coop at Haverford College and outputs the possible ways it could sound like along with some prosodic markings. 
+

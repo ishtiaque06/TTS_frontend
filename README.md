@@ -8,4 +8,4 @@ A few notes:
 
 To be able to use this program, you need to have textblob package installed. 
 
-This project has been facilitated by Professor Jane Chandlee was a joint venture with Travis Grant, Haverford '20.
+This project has been facilitated by Professor Jane Chandlee and was a joint venture with Travis Grant, Haverford '20.
